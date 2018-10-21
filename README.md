@@ -1,4 +1,4 @@
-# facultyOS
+# Operating Systems R225
 This repository represents homework assignments from a course called Operating Systems. 
 
 Compile (using gcc compiler). 
